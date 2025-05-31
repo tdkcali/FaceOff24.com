@@ -34,4 +34,7 @@ FaceOff 24 is committed to respectful, engaging, and safe user experiences. All 
 📱 Available on the [Google Play Store](#)  and IOS
 🌐 Visit [FaceOff24.com](https://faceoff24.com)  
 📧 Contact: `support@faceoff24.com`
+---
+
+📜 [View Our Child Safety Standards](https://tdkcali.github.io/FaceOff24.com/safety-standards.html)
 
