@@ -1,0 +1,62 @@
+{
+  "name": "react-native-customizable-countdown",
+  "version": "1.1.3",
+  "description": "This module gives you the full access to change the UI as you want. More features will be available in the future!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harisene/react-native-customizable-countdown"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "customize",
+    "customizable",
+    "customizable-component",
+    "react-native-customizable-countdown"
+  ],
+  "author": "Haritha Senevirathne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harisene/react-native-customizable-countdown/issues"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/runtime": "^7.8.7",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "next-transpile-modules": "^3.1.0",
+    "react": "^16.13.0",
+    "react-native": "^0.61.5",
+    "react-test-renderer": "^16.13.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!(jest-)?react-native|@react-native-community|react)"
+    ]
+  },
+  "homepage": "https://github.com/Harisene/react-native-customizable-countdown"
+}
